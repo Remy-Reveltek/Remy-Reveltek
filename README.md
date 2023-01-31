@@ -1,5 +1,5 @@
 # Business Professional | Collaborator | Committed to Serving Humanity
-![Cool Robot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4d_c2rhApVzkPqmSMFuSd2rBayYLInN-n3R6gFqA11pACLKHLu43y7lDeT3AegshGqzY&usqp=CAU)
+![Cool Robot](https://user-images.githubusercontent.com/117187551/215875142-01ee5f00-2333-4220-8d38-afff0744126a.jpg)
 
 - 👋 Hi, I’m @Remy-Reveltek
 - 👀 I’m interested in serving humanity
