@@ -1,3 +1,6 @@
+# Business Professional | Collaborator | Committed to Serving Humanity
+![Cool Robot](https://user-images.githubusercontent.com/117187551/215875142-01ee5f00-2333-4220-8d38-afff0744126a.jpg)
+
 - 👋 Hi, I’m @Remy-Reveltek
 - 👀 I’m interested in serving humanity
 - 🌱 I’m currently learning project management
