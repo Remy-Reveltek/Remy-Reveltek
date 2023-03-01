@@ -16,3 +16,9 @@ J --> K[Good at managing bigger teams]
 end
 Skills --> SAA --> Job
 ```
+
+```mermaid
+graph TD;
+  A[Planet A] -->|Competitor 1| B[Planet B];
+  A[Planet A] -->|Competitor 2| C[Planet C];
+  A[Planet A] -->|Competitor 3| D[Planet D];
